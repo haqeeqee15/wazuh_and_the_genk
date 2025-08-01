@@ -1,2 +1,3 @@
-# Materi Wazuh
-Kumpulan command yang dijalankan setiap chapter materi pelatihan Wazuh.
+# Open Source Blue Team Home Lab
+Wazuh-Suricata-shuffle
+.
